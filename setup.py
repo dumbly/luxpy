@@ -18,6 +18,7 @@ setup(
 		'matplotlib',
 		'pandas',
         'imageio',
+        'scikit-learn',
       ],
 #   package_data={'': ['luxpy/data/*.dat',
 # 						  'luxpy/data/*.txt',
